@@ -11,7 +11,7 @@ pageSource = driver.page_source
 # print(pageSource.encode(sys.stdin.encoding, "replace").decode(sys.stdin.encoding))
 soup = BeautifulSoup(pageSource, 'lxml')
 
-# print(soup.prettify(encoding='utf-8'))
+print(soup.prettify(encoding='utf-8'))
 for caption in soup.find_all('caption'):
   print('caption', caption.get_text())
 
