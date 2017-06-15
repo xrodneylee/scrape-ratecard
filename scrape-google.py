@@ -15,4 +15,4 @@ soup = BeautifulSoup(pageSource, 'lxml')
 for caption in soup.find_all('caption'):
   print('caption', caption.get_text())
 
-driver.close()
+driver.quit()

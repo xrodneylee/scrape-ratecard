@@ -1,0 +1,1211 @@
+{
+  "value": [
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-21T00:00:00+00:00",
+        "usageEndTime": "2017-03-22T00:00:00+00:00",
+        "meterName": "Data Transfer Out (GB)",
+        "meterRegion": "Zone 1",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/CF-GROUP/providers/Microsoft.Compute/virtualMachines/CloudFusion-DataCenter\",\"location\":\"uswest2\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrOut\"}}}",
+        "meterId": "9995d93a-7d35-4d3f-9c69-7a7fea447ef4",
+        "infoFields": {},
+        "quantity": 0.036998
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-21T00:00:00+00:00",
+        "usageEndTime": "2017-03-22T00:00:00+00:00",
+        "meterName": "Data Transfer Out (GB)",
+        "meterRegion": "Zone 2",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/SQ_DEMO/providers/Microsoft.Compute/virtualMachines/vm611\",\"location\":\"eastasia\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrOut\"}}}",
+        "meterId": "fe167397-a38d-43c3-9bb3-8e2907e56a41",
+        "infoFields": {},
+        "quantity": 0.001587
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-21T00:00:00+00:00",
+        "usageEndTime": "2017-03-22T00:00:00+00:00",
+        "meterName": "IP Address Hours",
+        "meterCategory": "Networking",
+        "meterSubCategory": "Public IP Addresses",
+        "unit": "Hours",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/CF-Group/providers/Microsoft.Network/publicIPAddresses/mantis-ip\",\"location\":\"westus2\"}}",
+        "meterId": "f114cb19-ea64-40b5-bcd7-aee474b62853",
+        "infoFields": {},
+        "quantity": 6.99999999999999923
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-21T00:00:00+00:00",
+        "usageEndTime": "2017-03-22T00:00:00+00:00",
+        "meterName": "Data Transfer In (GB)",
+        "meterRegion": "Zone 1",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/CF-GROUP/providers/Microsoft.Compute/virtualMachines/mantis\",\"location\":\"uswest2\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrIn\"}}}",
+        "meterId": "32c3ebec-1646-49e3-8127-2cafbd3a04d8",
+        "infoFields": {},
+        "quantity": 0.00048
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-21T00:00:00+00:00",
+        "usageEndTime": "2017-03-22T00:00:00+00:00",
+        "meterName": "IP Address Hours",
+        "meterCategory": "Networking",
+        "meterSubCategory": "Public IP Addresses",
+        "unit": "Hours",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Network/publicIPAddresses/todo-prod-vm1-ip\",\"location\":\"eastasia\"}}",
+        "meterId": "f114cb19-ea64-40b5-bcd7-aee474b62853",
+        "infoFields": {},
+        "quantity": 6.99999999999999923
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-21T00:00:00+00:00",
+        "usageEndTime": "2017-03-22T00:00:00+00:00",
+        "meterName": "Data Transfer Out (GB)",
+        "meterRegion": "Zone 1",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/CF-GROUP/providers/Microsoft.Compute/virtualMachines/mantis\",\"location\":\"uswest2\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrOut\"}}}",
+        "meterId": "9995d93a-7d35-4d3f-9c69-7a7fea447ef4",
+        "infoFields": {},
+        "quantity": 0.000765
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-21T00:00:00+00:00",
+        "usageEndTime": "2017-03-22T00:00:00+00:00",
+        "meterName": "Compute Hours",
+        "meterRegion": "US West 2",
+        "meterCategory": "Virtual Machines",
+        "meterSubCategory": "BASIC.A2 VM",
+        "unit": "Hours",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/CF-GROUP/providers/Microsoft.Compute/virtualMachines/CloudFusion-DataCenter\",\"location\":\"uswest2\",\"additionalInfo\":{\"ImageType\":\"Canonical\",\"ServiceType\":\"Basic_A2\",\"VMName\":\"\",\"UsageType\":\"ComputeHR\"}}}",
+        "meterId": "95ea396b-5a94-4e31-bf52-d065c3ec8769",
+        "infoFields": {},
+        "quantity": 8
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-21T00:00:00+00:00",
+        "usageEndTime": "2017-03-22T00:00:00+00:00",
+        "meterName": "Compute Hours",
+        "meterRegion": "AP East",
+        "meterCategory": "Virtual Machines",
+        "meterSubCategory": "A1 VM",
+        "unit": "Hours",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/SQ_DEMO/providers/Microsoft.Compute/virtualMachines/vm611\",\"location\":\"eastasia\",\"additionalInfo\":{\"ImageType\":\"Canonical\",\"ServiceType\":\"Standard_A1\",\"VMName\":\"\",\"UsageType\":\"ComputeHR\"}}}",
+        "meterId": "ecd2f1b6-d122-4ee5-8ae4-94241da0f433",
+        "infoFields": {},
+        "quantity": 8
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-21T00:00:00+00:00",
+        "usageEndTime": "2017-03-22T00:00:00+00:00",
+        "meterName": "Data Transfer Out (GB)",
+        "meterRegion": "Zone 2",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/GUANPU-LAB-RG/providers/Microsoft.Compute/virtualMachines/todo-prod-vm1\",\"location\":\"eastasia\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrOut\"}}}",
+        "meterId": "fe167397-a38d-43c3-9bb3-8e2907e56a41",
+        "infoFields": {},
+        "quantity": 0.000877
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-21T00:00:00+00:00",
+        "usageEndTime": "2017-03-22T00:00:00+00:00",
+        "meterName": "Data Transfer In (GB)",
+        "meterRegion": "Zone 1",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/CF-GROUP/providers/Microsoft.Compute/virtualMachines/CloudFusion-DataCenter\",\"location\":\"uswest2\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrIn\"}}}",
+        "meterId": "32c3ebec-1646-49e3-8127-2cafbd3a04d8",
+        "infoFields": {},
+        "quantity": 0.028441
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-21T00:00:00+00:00",
+        "usageEndTime": "2017-03-22T00:00:00+00:00",
+        "meterName": "Compute Hours",
+        "meterRegion": "US West 2",
+        "meterCategory": "Virtual Machines",
+        "meterSubCategory": "BASIC.A1 VM",
+        "unit": "Hours",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/CF-GROUP/providers/Microsoft.Compute/virtualMachines/mantis\",\"location\":\"uswest2\",\"additionalInfo\":{\"ImageType\":\"OpenLogic\",\"ServiceType\":\"Basic_A1\",\"VMName\":\"\",\"UsageType\":\"ComputeHR\"}}}",
+        "meterId": "689c2a0f-63a3-49e8-b8d5-e7bfac1fc877",
+        "infoFields": {},
+        "quantity": 8
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-21T00:00:00+00:00",
+        "usageEndTime": "2017-03-22T00:00:00+00:00",
+        "meterName": "Data Transfer In (GB)",
+        "meterRegion": "Zone 2",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/GUANPU-LAB-RG/providers/Microsoft.Compute/virtualMachines/todo-prod-vm1\",\"location\":\"eastasia\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrIn\"}}}",
+        "meterId": "42bb05e1-6f42-4de1-a6ba-7ffb976cb560",
+        "infoFields": {},
+        "quantity": 0.000837
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-21T00:00:00+00:00",
+        "usageEndTime": "2017-03-22T00:00:00+00:00",
+        "meterName": "Compute Hours",
+        "meterRegion": "AP East",
+        "meterCategory": "Virtual Machines",
+        "meterSubCategory": "Standard_D1_v2 VM",
+        "unit": "Hours",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/GUANPU-LAB-RG/providers/Microsoft.Compute/virtualMachines/todo-prod-vm1\",\"location\":\"eastasia\",\"additionalInfo\":{\"ImageType\":\"Canonical\",\"ServiceType\":\"Standard_DS1_v2\",\"VMName\":\"\",\"UsageType\":\"ComputeHR\"}}}",
+        "meterId": "45c9240e-43e1-4abb-8b6c-f37296c36687",
+        "infoFields": {},
+        "quantity": 8
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-21T00:00:00+00:00",
+        "usageEndTime": "2017-03-22T00:00:00+00:00",
+        "meterName": "Data Transfer In (GB)",
+        "meterRegion": "Zone 2",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/SQ_DEMO/providers/Microsoft.Compute/virtualMachines/vm611\",\"location\":\"eastasia\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrIn\"}}}",
+        "meterId": "42bb05e1-6f42-4de1-a6ba-7ffb976cb560",
+        "infoFields": {},
+        "quantity": 0.001326
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Table (GB)",
+        "meterCategory": "Storage",
+        "meterSubCategory": "Locally Redundant",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/sq_demo/providers/Microsoft.Storage/storageAccounts/sqdemodisks140\",\"location\":\"apeast\"}}",
+        "meterId": "3f2b1e1c-c886-4ec6-ad6f-dd0ef38819c9",
+        "infoFields": {},
+        "quantity": 0.000106
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Page Blob Write Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdisks819\",\"location\":\"uswest2\"}}",
+        "meterId": "c01a1eed-b19a-4aad-bb83-8d62cdc29778",
+        "infoFields": {},
+        "quantity": 27.8867
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Page Blob Delete Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdisks819\",\"location\":\"uswest2\"}}",
+        "meterId": "f14382b0-1838-48e9-9314-c7b6eababc81",
+        "infoFields": {},
+        "quantity": 0.14
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Block Blob Read Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdisks819\",\"location\":\"uswest2\"}}",
+        "meterId": "40551b4c-e8be-48ed-b70b-f8d25c7de724",
+        "infoFields": {},
+        "quantity": 0.8864
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Premium Storage - Page Blob/P10 (Units)",
+        "meterRegion": "AP East",
+        "meterCategory": "Storage",
+        "meterSubCategory": "Locally Redundant",
+        "unit": "Units",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Storage/storageAccounts/guanpulabrgdisks366\",\"location\":\"apeast\"}}",
+        "meterId": "0dfadad2-6e4f-4078-85e1-90c230d4d482",
+        "infoFields": {},
+        "quantity": 0.032256
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Page Blob Read Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/sq_demo/providers/Microsoft.Storage/storageAccounts/sqdemodisks140\",\"location\":\"apeast\"}}",
+        "meterId": "d3824379-dc7e-472b-9e67-3f4a7eadc05b",
+        "infoFields": {},
+        "quantity": 0.0147
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Block Blob Write Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Storage/storageAccounts/guanpulabrgdiag513\",\"location\":\"apeast\"}}",
+        "meterId": "211e620c-ebcf-4db5-a7fd-996abebe9546",
+        "infoFields": {},
+        "quantity": 0.2896
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Table Write Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdiag661\",\"location\":\"uswest2\"}}",
+        "meterId": "9cb0bde8-bc0d-468c-8423-a25fe06779d3",
+        "infoFields": {},
+        "quantity": 0.0146
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Table (GB)",
+        "meterCategory": "Storage",
+        "meterSubCategory": "Locally Redundant",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdisks819\",\"location\":\"uswest2\"}}",
+        "meterId": "3f2b1e1c-c886-4ec6-ad6f-dd0ef38819c9",
+        "infoFields": {},
+        "quantity": 0.00012
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Data Transfer Out (GB)",
+        "meterRegion": "Zone 2",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/GUANPU-LAB-RG/providers/Microsoft.Compute/virtualMachines/todo-prod-vm1\",\"location\":\"eastasia\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrOut\"}}}",
+        "meterId": "fe167397-a38d-43c3-9bb3-8e2907e56a41",
+        "infoFields": {},
+        "quantity": 0.001359
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Data Transfer In (GB)",
+        "meterRegion": "Zone 2",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/SQ_DEMO/providers/Microsoft.Compute/virtualMachines/vm611\",\"location\":\"eastasia\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrIn\"}}}",
+        "meterId": "42bb05e1-6f42-4de1-a6ba-7ffb976cb560",
+        "infoFields": {},
+        "quantity": 0.001783
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "IP Address Hours",
+        "meterCategory": "Networking",
+        "meterSubCategory": "Public IP Addresses",
+        "unit": "Hours",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/CF-Group/providers/Microsoft.Network/publicIPAddresses/mantis-ip\",\"location\":\"westus2\"}}",
+        "meterId": "f114cb19-ea64-40b5-bcd7-aee474b62853",
+        "infoFields": {},
+        "quantity": 16.99999999999999813
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Page Blob/Disk (GB)",
+        "meterCategory": "Storage",
+        "meterSubCategory": "Locally Redundant",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Storage/storageAccounts/guanpulabrgdiag513\",\"location\":\"apeast\"}}",
+        "meterId": "d23a5753-ff85-4ddf-af28-8cc5cf2d3882",
+        "infoFields": {},
+        "quantity": 0.000024
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Page Blob Write Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdiag661\",\"location\":\"uswest2\"}}",
+        "meterId": "c01a1eed-b19a-4aad-bb83-8d62cdc29778",
+        "infoFields": {},
+        "quantity": 0.5879
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Page Blob Read Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdisks819\",\"location\":\"uswest2\"}}",
+        "meterId": "d3824379-dc7e-472b-9e67-3f4a7eadc05b",
+        "infoFields": {},
+        "quantity": 0.2151
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Table Write Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/sq_demo/providers/Microsoft.Storage/storageAccounts/sqdemodisks140\",\"location\":\"apeast\"}}",
+        "meterId": "9cb0bde8-bc0d-468c-8423-a25fe06779d3",
+        "infoFields": {},
+        "quantity": 0.0146
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Data Transfer Out (GB)",
+        "meterRegion": "Zone 2",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/SQ_DEMO/providers/Microsoft.Compute/virtualMachines/vm611\",\"location\":\"eastasia\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrOut\"}}}",
+        "meterId": "fe167397-a38d-43c3-9bb3-8e2907e56a41",
+        "infoFields": {},
+        "quantity": 0.001606
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Free Nodes",
+        "meterCategory": "Security Center",
+        "unit": "Nodes",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourcegroups/guanpu-lab-rg/providers/microsoft.security/pricingtiers/free\",\"location\":\"us2\"}}",
+        "meterId": "3fb05390-ab59-4f14-a55f-2408834816bf",
+        "infoFields": {},
+        "quantity": 0.032258064516129031
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Block Blob Read Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdiag661\",\"location\":\"uswest2\"}}",
+        "meterId": "40551b4c-e8be-48ed-b70b-f8d25c7de724",
+        "infoFields": {},
+        "quantity": 0.5919
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Data Transfer Out (GB)",
+        "meterRegion": "Zone 1",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/CF-GROUP/providers/Microsoft.Compute/virtualMachines/CloudFusion-DataCenter\",\"location\":\"uswest2\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrOut\"}}}",
+        "meterId": "9995d93a-7d35-4d3f-9c69-7a7fea447ef4",
+        "infoFields": {},
+        "quantity": 0.14016
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Table (GB)",
+        "meterCategory": "Storage",
+        "meterSubCategory": "Locally Redundant",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdiag661\",\"location\":\"uswest2\"}}",
+        "meterId": "3f2b1e1c-c886-4ec6-ad6f-dd0ef38819c9",
+        "infoFields": {},
+        "quantity": 0.00012
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Data transfer - Geo-Replication (GB)",
+        "meterRegion": "AP East",
+        "meterCategory": "Networking",
+        "meterSubCategory": "Geo Redundant",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Storage/storageAccounts/tododisk\",\"location\":\"apeast\"}}",
+        "meterId": "0dc6943f-8742-4a62-8db2-44b61c7fe953",
+        "infoFields": {},
+        "quantity": 0.001081
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Table Write Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdisks819\",\"location\":\"uswest2\"}}",
+        "meterId": "9cb0bde8-bc0d-468c-8423-a25fe06779d3",
+        "infoFields": {},
+        "quantity": 0.0146
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Block Blob Delete Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdiag661\",\"location\":\"uswest2\"}}",
+        "meterId": "923978e1-fd3f-4bd5-a798-f4b533057e46",
+        "infoFields": {},
+        "quantity": 0.288
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "IP Address Hours",
+        "meterCategory": "Networking",
+        "meterSubCategory": "Public IP Addresses",
+        "unit": "Hours",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Network/publicIPAddresses/todo-prod-vm1-ip\",\"location\":\"eastasia\"}}",
+        "meterId": "f114cb19-ea64-40b5-bcd7-aee474b62853",
+        "infoFields": {},
+        "quantity": 16.99999999999999813
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Table Write Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "meterSubCategory": "Geo Redundant",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Storage/storageAccounts/tododisk\",\"location\":\"apeast\"}}",
+        "meterId": "ad22fac8-9da5-4577-8683-56ae94d39e42",
+        "infoFields": {},
+        "quantity": 0.0289
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Block Blob Write Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/sq_demo/providers/Microsoft.Storage/storageAccounts/sqdemodisks140\",\"location\":\"apeast\"}}",
+        "meterId": "211e620c-ebcf-4db5-a7fd-996abebe9546",
+        "infoFields": {},
+        "quantity": 0.3541
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Data Transfer Out (GB)",
+        "meterRegion": "Zone 1",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/CF-GROUP/providers/Microsoft.Compute/virtualMachines/mantis\",\"location\":\"uswest2\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrOut\"}}}",
+        "meterId": "9995d93a-7d35-4d3f-9c69-7a7fea447ef4",
+        "infoFields": {},
+        "quantity": 0.002803
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Page Blob Write Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Storage/storageAccounts/guanpulabrgdiag513\",\"location\":\"apeast\"}}",
+        "meterId": "c01a1eed-b19a-4aad-bb83-8d62cdc29778",
+        "infoFields": {},
+        "quantity": 0.5853
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Page Blob Read Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdiag661\",\"location\":\"uswest2\"}}",
+        "meterId": "d3824379-dc7e-472b-9e67-3f4a7eadc05b",
+        "infoFields": {},
+        "quantity": 0.3118
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Free Nodes",
+        "meterCategory": "Security Center",
+        "unit": "Nodes",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourcegroups/sq_demo/providers/microsoft.security/pricingtiers/free\",\"location\":\"us2\"}}",
+        "meterId": "3fb05390-ab59-4f14-a55f-2408834816bf",
+        "infoFields": {},
+        "quantity": 0.032258064516129031
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Block Blob Read Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Storage/storageAccounts/guanpulabrgdiag513\",\"location\":\"apeast\"}}",
+        "meterId": "40551b4c-e8be-48ed-b70b-f8d25c7de724",
+        "infoFields": {},
+        "quantity": 0.5869
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Compute Hours",
+        "meterRegion": "AP East",
+        "meterCategory": "Virtual Machines",
+        "meterSubCategory": "Standard_D1_v2 VM",
+        "unit": "Hours",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/GUANPU-LAB-RG/providers/Microsoft.Compute/virtualMachines/todo-prod-vm1\",\"location\":\"eastasia\",\"additionalInfo\":{\"ImageType\":\"Canonical\",\"ServiceType\":\"Standard_DS1_v2\",\"VMName\":\"\",\"UsageType\":\"ComputeHR\"}}}",
+        "meterId": "45c9240e-43e1-4abb-8b6c-f37296c36687",
+        "infoFields": {},
+        "quantity": 16
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Compute Hours",
+        "meterRegion": "US West 2",
+        "meterCategory": "Virtual Machines",
+        "meterSubCategory": "BASIC.A1 VM",
+        "unit": "Hours",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/CF-GROUP/providers/Microsoft.Compute/virtualMachines/mantis\",\"location\":\"uswest2\",\"additionalInfo\":{\"ImageType\":\"OpenLogic\",\"ServiceType\":\"Basic_A1\",\"VMName\":\"\",\"UsageType\":\"ComputeHR\"}}}",
+        "meterId": "689c2a0f-63a3-49e8-b8d5-e7bfac1fc877",
+        "infoFields": {},
+        "quantity": 16
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Table (GB)",
+        "meterCategory": "Storage",
+        "meterSubCategory": "Locally Redundant",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Storage/storageAccounts/guanpulabrgdiag513\",\"location\":\"apeast\"}}",
+        "meterId": "3f2b1e1c-c886-4ec6-ad6f-dd0ef38819c9",
+        "infoFields": {},
+        "quantity": 0.000144
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Page Blob/Disk (GB)",
+        "meterCategory": "Storage",
+        "meterSubCategory": "Locally Redundant",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/sq_demo/providers/Microsoft.Storage/storageAccounts/sqdemodisks140\",\"location\":\"apeast\"}}",
+        "meterId": "d23a5753-ff85-4ddf-af28-8cc5cf2d3882",
+        "infoFields": {},
+        "quantity": 0.052984
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Block Blob Write Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdisks819\",\"location\":\"uswest2\"}}",
+        "meterId": "211e620c-ebcf-4db5-a7fd-996abebe9546",
+        "infoFields": {},
+        "quantity": 0.6818
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Block Blob Delete Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Storage/storageAccounts/guanpulabrgdiag513\",\"location\":\"apeast\"}}",
+        "meterId": "923978e1-fd3f-4bd5-a798-f4b533057e46",
+        "infoFields": {},
+        "quantity": 0.288
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Data Transfer In (GB)",
+        "meterRegion": "Zone 2",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Storage/storageAccounts/tododisk\",\"location\":\"apeast\"}}",
+        "meterId": "42bb05e1-6f42-4de1-a6ba-7ffb976cb560",
+        "infoFields": {},
+        "quantity": 0.000528
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Page Blob Read Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Storage/storageAccounts/guanpulabrgdiag513\",\"location\":\"apeast\"}}",
+        "meterId": "d3824379-dc7e-472b-9e67-3f4a7eadc05b",
+        "infoFields": {},
+        "quantity": 0.3066
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Data Transfer In (GB)",
+        "meterRegion": "Zone 1",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/CF-GROUP/providers/Microsoft.Compute/virtualMachines/CloudFusion-DataCenter\",\"location\":\"uswest2\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrIn\"}}}",
+        "meterId": "32c3ebec-1646-49e3-8127-2cafbd3a04d8",
+        "infoFields": {},
+        "quantity": 0.161293
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Page Blob/Disk (GB)",
+        "meterCategory": "Storage",
+        "meterSubCategory": "Locally Redundant",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdisks819\",\"location\":\"uswest2\"}}",
+        "meterId": "d23a5753-ff85-4ddf-af28-8cc5cf2d3882",
+        "infoFields": {},
+        "quantity": 0.53176
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Data Transfer Out (GB)",
+        "meterRegion": "Zone 2",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Storage/storageAccounts/tododisk\",\"location\":\"apeast\"}}",
+        "meterId": "fe167397-a38d-43c3-9bb3-8e2907e56a41",
+        "infoFields": {},
+        "quantity": 0.000624
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Compute Hours",
+        "meterRegion": "AP East",
+        "meterCategory": "Virtual Machines",
+        "meterSubCategory": "A1 VM",
+        "unit": "Hours",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/SQ_DEMO/providers/Microsoft.Compute/virtualMachines/vm611\",\"location\":\"eastasia\",\"additionalInfo\":{\"ImageType\":\"Canonical\",\"ServiceType\":\"Standard_A1\",\"VMName\":\"\",\"UsageType\":\"ComputeHR\"}}}",
+        "meterId": "ecd2f1b6-d122-4ee5-8ae4-94241da0f433",
+        "infoFields": {},
+        "quantity": 15.983353
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Data Transfer In (GB)",
+        "meterRegion": "Zone 2",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/GUANPU-LAB-RG/providers/Microsoft.Compute/virtualMachines/todo-prod-vm1\",\"location\":\"eastasia\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrIn\"}}}",
+        "meterId": "42bb05e1-6f42-4de1-a6ba-7ffb976cb560",
+        "infoFields": {},
+        "quantity": 0.001955
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Data Transfer In (GB)",
+        "meterRegion": "Zone 1",
+        "meterCategory": "Networking",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/CF-GROUP/providers/Microsoft.Compute/virtualMachines/mantis\",\"location\":\"uswest2\",\"additionalInfo\":{\"ImageType\":\"\",\"ServiceType\":\"\",\"VMName\":\"\",\"UsageType\":\"DataTrIn\"}}}",
+        "meterId": "32c3ebec-1646-49e3-8127-2cafbd3a04d8",
+        "infoFields": {},
+        "quantity": 0.001453
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Page Blob Write Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/sq_demo/providers/Microsoft.Storage/storageAccounts/sqdemodisks140\",\"location\":\"apeast\"}}",
+        "meterId": "c01a1eed-b19a-4aad-bb83-8d62cdc29778",
+        "infoFields": {},
+        "quantity": 4.8387
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Block Blob Write Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/cf-group/providers/Microsoft.Storage/storageAccounts/cfgroupdiag661\",\"location\":\"uswest2\"}}",
+        "meterId": "211e620c-ebcf-4db5-a7fd-996abebe9546",
+        "infoFields": {},
+        "quantity": 0.292
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Page Blob Delete Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/sq_demo/providers/Microsoft.Storage/storageAccounts/sqdemodisks140\",\"location\":\"apeast\"}}",
+        "meterId": "f14382b0-1838-48e9-9314-c7b6eababc81",
+        "infoFields": {},
+        "quantity": 0.0043
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Block Blob Read Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/sq_demo/providers/Microsoft.Storage/storageAccounts/sqdemodisks140\",\"location\":\"apeast\"}}",
+        "meterId": "40551b4c-e8be-48ed-b70b-f8d25c7de724",
+        "infoFields": {},
+        "quantity": 0.4564
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Table Write Operation Units (in 10,000s)",
+        "meterCategory": "Data Management",
+        "unit": "10,000s",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Storage/storageAccounts/guanpulabrgdiag513\",\"location\":\"apeast\"}}",
+        "meterId": "9cb0bde8-bc0d-468c-8423-a25fe06779d3",
+        "infoFields": {},
+        "quantity": 0.0146
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Standard IO - Table (GB)",
+        "meterCategory": "Storage",
+        "meterSubCategory": "Read-Access Geo Redundant",
+        "unit": "GB",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/guanpu-lab-rg/providers/Microsoft.Storage/storageAccounts/tododisk\",\"location\":\"apeast\"}}",
+        "meterId": "6c76daf0-aeb1-4238-b8b4-18820c91eeef",
+        "infoFields": {},
+        "quantity": 0.000103
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Free Nodes",
+        "meterCategory": "Security Center",
+        "unit": "Nodes",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourcegroups/cf-group/providers/microsoft.security/pricingtiers/free\",\"location\":\"us2\"}}",
+        "meterId": "3fb05390-ab59-4f14-a55f-2408834816bf",
+        "infoFields": {},
+        "quantity": 0.064516129032258063
+      }
+    },
+    {
+      "id": "/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/providers/Microsoft.Commerce/UsageAggregates/Daily_BRSDT_20170322_0000",
+      "name": "Daily_BRSDT_20170322_0000",
+      "type": "Microsoft.Commerce/UsageAggregate",
+      "properties": {
+        "subscriptionId": "08baa038-b64f-49f0-a084-7c22d1c1305c",
+        "usageStartTime": "2017-03-22T00:00:00+00:00",
+        "usageEndTime": "2017-03-23T00:00:00+00:00",
+        "meterName": "Compute Hours",
+        "meterRegion": "US West 2",
+        "meterCategory": "Virtual Machines",
+        "meterSubCategory": "BASIC.A2 VM",
+        "unit": "Hours",
+        "instanceData": "{\"Microsoft.Resources\":{\"resourceUri\":\"/subscriptions/08baa038-b64f-49f0-a084-7c22d1c1305c/resourceGroups/CF-GROUP/providers/Microsoft.Compute/virtualMachines/CloudFusion-DataCenter\",\"location\":\"uswest2\",\"additionalInfo\":{\"ImageType\":\"Canonical\",\"ServiceType\":\"Basic_A2\",\"VMName\":\"\",\"UsageType\":\"ComputeHR\"}}}",
+        "meterId": "95ea396b-5a94-4e31-bf52-d065c3ec8769",
+        "infoFields": {},
+        "quantity": 16
+      }
+    }
+  ]
+}
