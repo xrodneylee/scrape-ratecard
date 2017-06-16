@@ -31,7 +31,7 @@ with open('ratecard-TWD.json') as ratecard_file:
 for price in ratecard_data['Meters']:
   meter_status.add(price['MeterStatus'])
   if price['MeterStatus'] == 'Active':
-    record = AzureRateCard(price['MeterId'], price['Unit'])
+    record = AzureRateCard(price['MeterId'], str(price['MeterRates']))
     db_session.add(record)
 db_session.commit()
 
