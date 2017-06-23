@@ -35,5 +35,6 @@ for price in ratecard_data['Meters']:
     db_session.add(record)
 db_session.commit()
 
-# print(AzureRateCard.query.filter(AzureRateCard.MeterId == '8d29e058-214a-4ec5-a52a-df7d76ce1683').first())
-print(meter_status)
+# temp = AzureRateCard.query.filter(AzureRateCard.MeterId == '8d29e058-214a-4ec5-a52a-df7d76ce1683').first()
+# print(json.loads((temp.MeterRates).replace("'", '"')).get('0'))
+# print(meter_status)
