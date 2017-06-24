@@ -6,21 +6,18 @@ import yaml
 
 class Azure:
 
-    meter_status = set()
+    def __init__(self):
+        pass
 
-    with open('ratecard-TWD.json') as ratecard_file:
-      ratecard_data = json.load(ratecard_file)
+    def import_ratecard(self):
+        with open('ratecard-TWD.json') as ratecard_file:
+            ratecard_data = json.load(ratecard_file)
 
-
-        #   if usage['properties'][vm]['meterCategory'] == 'Virtual Machines':
-        #       print(usage['id'])
-
-    # for price in ratecard_data['Meters']:
-    #   meter_status.add(price['MeterStatus'])
-    #   if price['MeterStatus'] == 'Active':
-    #     record = AzureRateCard(price['MeterId'], str(price['MeterRates']))
-    #     db_session.add(record)
-    # db_session.commit()
+        for price in ratecard_data['Meters']:
+            if price['MeterStatus'] == 'Active':
+                record = AzureRateCard(price['MeterId'], str(price['MeterRates']))
+                db_session.add(record)
+            db_session.commit()
 
 temp = AzureRateCard.query.filter(AzureRateCard.MeterId == '8d29e058-214a-4ec5-a52a-df7d76ce1683').first()
 aa = yaml.load(temp.MeterRates)
