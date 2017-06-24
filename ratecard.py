@@ -1,6 +1,7 @@
 from database import db_session
 from models import AzureRateCard
 import json
+import yaml
 
 
 class Azure:
@@ -14,13 +15,16 @@ class Azure:
         #   if usage['properties'][vm]['meterCategory'] == 'Virtual Machines':
         #       print(usage['id'])
 
-    for price in ratecard_data['Meters']:
-      meter_status.add(price['MeterStatus'])
-      if price['MeterStatus'] == 'Active':
-        record = AzureRateCard(price['MeterId'], str(price['MeterRates']))
-        db_session.add(record)
-    db_session.commit()
+    # for price in ratecard_data['Meters']:
+    #   meter_status.add(price['MeterStatus'])
+    #   if price['MeterStatus'] == 'Active':
+    #     record = AzureRateCard(price['MeterId'], str(price['MeterRates']))
+    #     db_session.add(record)
+    # db_session.commit()
 
-# temp = AzureRateCard.query.filter(AzureRateCard.MeterId == '8d29e058-214a-4ec5-a52a-df7d76ce1683').first()
+temp = AzureRateCard.query.filter(AzureRateCard.MeterId == '8d29e058-214a-4ec5-a52a-df7d76ce1683').first()
+aa = yaml.load(temp.MeterRates)
+print(aa)
+print(aa['0'])
 # print(json.loads((temp.MeterRates).replace("'", '"')).get('0'))
 # print(meter_status)
