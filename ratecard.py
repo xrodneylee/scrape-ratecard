@@ -4,7 +4,7 @@ import json
 import yaml
 
 
-class Azure:
+class Azure(object):
 
     def __init__(self):
         pass
