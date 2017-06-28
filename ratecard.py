@@ -17,11 +17,17 @@ class Azure(object):
             if price['MeterStatus'] == 'Active':
                 record = AzureRateCard(price['MeterId'], str(price['MeterRates']))
                 db_session.add(record)
-            db_session.commit()
+        db_session.commit()
 
-temp = AzureRateCard.query.filter(AzureRateCard.MeterId == '8d29e058-214a-4ec5-a52a-df7d76ce1683').first()
-aa = yaml.load(temp.MeterRates)
-print(aa)
-print(aa['0'])
+# temp = AzureRateCard.query.filter(AzureRateCard.MeterId == '8d29e058-214a-4ec5-a52a-df7d76ce1683').first()
+# aa = yaml.load(temp.MeterRates)
+# print(aa)
+# print(aa['0'])
 # print(json.loads((temp.MeterRates).replace("'", '"')).get('0'))
 # print(meter_status)
+def main():
+    azure = Azure()
+    azure.import_ratecard()
+
+if __name__ == '__main__':
+    main()
