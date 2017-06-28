@@ -26,6 +26,7 @@ class Azure(object):
 # print(json.loads((temp.MeterRates).replace("'", '"')).get('0'))
 # print(meter_status)
 def main():
+    AzureRateCard.query.delete()
     azure = Azure()
     azure.import_ratecard()
 
