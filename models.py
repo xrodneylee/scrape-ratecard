@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, DateTime, DECIMAL
+from sqlalchemy import Column, Integer, String, DateTime, Float
 from database import Base
 
 class AzureRateCard(Base):
@@ -26,7 +26,7 @@ class AzureUsage(Base):
     MeterName = Column(String)
     MeterCategory = Column(String)
     MeterId =  Column(String)
-    Quantity = Column(DECIMAL)
+    Quantity = Column(Float)
 
     def __init__(self, ResourceGroups=None,
             Providers=None,
@@ -50,4 +50,4 @@ class AzureUsage(Base):
         self.Quantity = Quantity
 
     def __repr__(self):
-        return '<azure-usage %r>' % (self.subscriptionId)
+        return '<azure-usage %r>' % (self.SubscriptionId)
