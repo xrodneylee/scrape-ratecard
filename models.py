@@ -9,7 +9,7 @@ class AzureRateCard(Base):
 
     def __init__(self, MeterId=None, MeterRates=None):
         self.MeterId = MeterId
-        self.MeterRates =MeterRates
+        self.MeterRates = MeterRates
 
     def __repr__(self):
         return '<azure-ratecard %r>' % (self.MeterRates)
