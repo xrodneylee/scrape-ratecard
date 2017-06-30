@@ -29,15 +29,15 @@ class AzureUsage(Base):
     Quantity = Column(Float)
 
     def __init__(self, ResourceGroups=None,
-            Providers=None,
-            Name=None,
-            SubscriptionId=None,
-            UsageStartTime=None,
-            UsageEndTime=None,
-            MeterName=None,
-            MeterCategory=None,
-            MeterId=None,
-            Quantity=None):
+                 Providers=None,
+                 Name=None,
+                 SubscriptionId=None,
+                 UsageStartTime=None,
+                 UsageEndTime=None,
+                 MeterName=None,
+                 MeterCategory=None,
+                 MeterId=None,
+                 Quantity=None):
         self.ResourceGroups = ResourceGroups
         self.Providers = Providers
         self.Name = Name
